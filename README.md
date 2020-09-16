@@ -5,13 +5,13 @@ React + TailWind + Boilerplate code
 ## Installation
 
 ```bash
-yarn install && yarn start
+yarn install && yarn dev
 ```
 
 ## Usage
 
 ```javascript
-localhost:3000
+localhost:8080
 ```
 
 ## Contributing
